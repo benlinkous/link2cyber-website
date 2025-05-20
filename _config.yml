@@ -10,11 +10,23 @@ plugins:
 
 nav_sort: case_insensitive
 
+nav:
+  - Home: index.md
+  - About: about.md
+  - Downloads: downloads.md
+  - Bootcamp Phases:
+    - 🟪 Fundamentals (Days 1–30): days/day01.md
+    - 🔵 Security (Days 31–60): days/day31.md
+    - 🟣 Advanced (Days 61–80): days/day61.md
+  - Certifications:
+    - Tech+: certs/techplus.md
+    - A+: certs/aplus.md
+    - Security+: certs/securityplus.md
+    - Network+: certs/networkplus.md
+    - CySA+: certs/cysa.md
+    - PenTest+: certs/pentestplus.md
+    - SecurityX: certs/securityx.md
+
 aux_links:
   "Back to GitHub":
     - "https://github.com/benlinkous/link2cyber-website"
-
-callouts:
-  note:
-    title: Note
-    color: blue
