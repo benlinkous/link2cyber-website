@@ -1,29 +1,103 @@
+# ✅ LinkOS Bootcamp — Day 20
+
+**Full-Time Learner Track (8–10 hours/day)**  
+**Focus:** A+, Tech+, Security+, Linux+  
+**Labs, Projects, Tools, and Documentation**  
+**Date:** (Insert actual date)
+
 ---
-title: "Day 13 – Cybersecurity Learning Project"
-certifications:
-  - Tech+
-  - A+
-  - Security+
-tools: []
-objectives: []
+
+## 🧩 Focus Areas
+
+- **CompTIA A+ (220-1102):** Virtualization and Cloud Services  
+- **Tech+:** SaaS, PaaS, IaaS Models and Comparison  
+- **Security+:** Cloud Security Concepts and Shared Responsibility  
+- **Linux+:** Using CLI to Interact with Cloud and VMs  
+- **TryHackMe:** Cloud Security, IAM, and Misconfigurations  
+- **Tool Integration:** `aws cli`, `gcloud`, `az`, `curl`, `cloud-init`, `ssh-keygen`
+
 ---
 
-## 🔍 Overview
+## ☁️ Task 1: Understand and Compare Cloud Models (Tech+ / A+)
 
-This is the detailed project log for **Day 13** of the Link2Cyber 80-Day Certification Journey.
+**Actions:**  
+- Document differences between SaaS, PaaS, IaaS  
+- Identify examples of each used in personal and professional life  
+- Set up a free cloud trial (AWS/GCP/Azure) if not already done
 
-## 🛠️ Tasks
+**Output:**  
+- Markdown: `cloud-model-comparison.md`  
+- Table: Common SaaS, PaaS, IaaS services
 
-- [ ] Complete lab or hands-on project
-- [ ] Document tool usage
-- [ ] Link relevant cert objective(s)
+---
 
-## 📁 Project Notes
+## 🔐 Task 2: Explore Cloud Security Concepts (Security+)
 
-_(Write your reflections, challenges, and lessons learned here.)_
+**Actions:**  
+- Research shared responsibility model  
+- List common cloud vulnerabilities (e.g., storage bucket exposure)  
+- Document IAM best practices and least privilege model
 
-## 🔗 Resources
+**Output:**  
+- Markdown: `cloud-security-overview.md`  
+- Notes: `iam-principles-summary.md`
 
-- GitHub Repo: *(link here)*
-- Related Tools: *(tool names)*
-- Certification Reference: *(CompTIA objectives, links, etc.)*
+---
+
+## ⚙️ Task 3: Linux Interaction with Cloud (Linux+)
+
+**Actions:**  
+- Install AWS CLI or GCP CLI on LinkOS  
+- Generate and secure SSH keypair with `ssh-keygen`  
+- Practice launching a lightweight VM or using `curl` with metadata
+
+**Tools:**  
+- `aws`, `gcloud`, `az`, `curl`, `ssh-keygen`, `chmod`, `scp`
+
+**Output:**  
+- Markdown: `cloud-cli-interaction.md`  
+- Screenshot: VM interaction or CLI key config
+
+---
+
+## 🧪 Task 4: TryHackMe Labs – Cloud Basics and IAM
+
+- [TryHackMe: Introduction to Cloud](https://tryhackme.com/room/introtocloud)  
+- [TryHackMe: Cloud IAM](https://tryhackme.com/room/cloudiam)
+
+**Output:**  
+- Markdown: `cloud-lab-reflection.md`
+
+---
+
+## 🛠️ Tools Learned Today
+
+| Tool / Command | Purpose                                           |
+|----------------|--------------------------------------------------|
+| `aws`, `gcloud`, `az` | CLI tools for cloud platform access        |
+| `ssh-keygen`, `scp` | Secure key generation and transfer          |
+| `curl`, `cloud-init` | Access metadata and bootstrap cloud configs |
+
+---
+
+## 📁 Documentation Checklist
+
+- [ ] `cloud-model-comparison.md`  
+- [ ] `cloud-security-overview.md`  
+- [ ] `iam-principles-summary.md`  
+- [ ] `cloud-cli-interaction.md`  
+- [ ] `cloud-lab-reflection.md`  
+- [ ] Git Commit:
+  ```bash
+  git add . && git commit -m "Day 20 – Cloud Models, Security, and Linux Integration" && git push origin main
+  ```
+
+---
+
+**📦 Default Export & Backup Step**
+
+Save this file and commit updates to your Obsidian vault and GitHub repo:
+
+```bash
+git add . && git commit -m "Daily update – LinkOS Bootcamp" && git push origin main
+```

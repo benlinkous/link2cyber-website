@@ -1,29 +1,31 @@
----
-title: "Day 23 – Cybersecurity Learning Project"
-certifications:
-  - Tech+
-  - A+
-  - Security+
-tools: []
-objectives: []
----
+# LinkOS Bootcamp Day 3 – Expanded
 
-## 🔍 Overview
+## 📘 Modules & Activities
 
-This is the detailed project log for **Day 23** of the Link2Cyber 80-Day Certification Journey.
+### 1. Process & Service Management
+- Use `ps`, `top`, `kill`, `systemctl` to manage tasks
+- **Lab**: Linux Fundamentals Part 2
+- **Objectives**: Linux+ 3.2, 3.3 | A+ 220-1102 1.6
 
-## 🛠️ Tasks
+### 2. Package Management & Software Repositories
+- Use `apt`, `dpkg`, `apt-cache`, `apt-get` to manage packages
+- **Lab**: Linux Fundamentals Part 2
+- **Objectives**: Linux+ 3.4 | ITF+ 3.1 | A+ 220-1102 1.5
 
-- [ ] Complete lab or hands-on project
-- [ ] Document tool usage
-- [ ] Link relevant cert objective(s)
+### 3. User Management Basics
+- Add and manage users and groups with `useradd`, `usermod`
+- **Lab**: Linux Fundamentals Part 2
+- **Objectives**: Linux+ 2.1, 2.3 | Security+ 3.4
 
-## 📁 Project Notes
+### 4. Scheduled Tasks (cron and at)
+- Automate daily tasks with crontab and at
+- **Lab**: Linux Fundamentals Part 3
+- **Objectives**: Linux+ 3.5 | A+ 220-1102 2.3
 
-_(Write your reflections, challenges, and lessons learned here.)_
+### 5. Project: Admin Scripts
+- Create user audit and system update bash scripts
+- **Objectives**: Linux+ 1.3, 2.1, 3.3 | A+ 1.6
 
-## 🔗 Resources
-
-- GitHub Repo: *(link here)*
-- Related Tools: *(tool names)*
-- Certification Reference: *(CompTIA objectives, links, etc.)*
+### 6. Git + Obsidian Wrap-Up
+- Commit Day 3 work and document commands used
+- **Objectives**: ITF+ 4.1 | Linux+ 3.3

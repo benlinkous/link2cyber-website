@@ -1,29 +1,88 @@
+# ✅ LinkOS Bootcamp — Day 17
+
+**Full-Time Learner Track (8–10 hours/day)**  
+**Focus:** A+, Tech+, Security+, Linux+  
+**Labs, Projects, Tools, and Documentation**  
+**Date:** (Insert actual date)
+
 ---
-title: "Day 09 – Cybersecurity Learning Project"
-certifications:
-  - Tech+
-  - A+
-  - Security+
-tools: []
-objectives: []
+
+## 🧩 Focus Areas
+
+- **CompTIA A+ (220-1102):** Malware Removal Process  
+- **Tech+:** Threat Identification and Defense Strategy  
+- **Security+:** Endpoint Protection  
+- **Linux+:** Threat Detection, Isolation, and Logging  
+- **TryHackMe:** Malware Sandbox, Rootkit Hunter  
+- **Tool Integration:** `chkrootkit`, `rkhunter`, `clamav`, `maltrail`, `/var/log`, `ufw`, `systemd-journal`
+
 ---
 
-## 🔍 Overview
+## 🛑 Task 1: Identify and Classify Malware (A+ / Security+)
 
-This is the detailed project log for **Day 09** of the Link2Cyber 80-Day Certification Journey.
+**Actions:**  
+- Research types of malware: virus, worm, trojan, ransomware, spyware  
+- List tools used to detect each category  
+- Practice identifying threats via logs and file signatures
 
-## 🛠️ Tasks
+**Output:**  
+- Markdown: `malware-types-overview.md`  
+- Sample log review: `malicious-log-signatures.md`
 
-- [ ] Complete lab or hands-on project
-- [ ] Document tool usage
-- [ ] Link relevant cert objective(s)
+---
 
-## 📁 Project Notes
+## 🧹 Task 2: Malware Removal Procedure (A+)
 
-_(Write your reflections, challenges, and lessons learned here.)_
+**Actions:**  
+- Simulate malware infection by downloading EICAR test file  
+- Run scans using `chkrootkit`, `rkhunter`, and `clamscan`  
+- Isolate and delete malicious files, review logs
 
-## 🔗 Resources
+**Output:**  
+- Markdown: `malware-removal-checklist.md`  
+- Screenshots: Terminal output of scans and actions taken
 
-- GitHub Repo: *(link here)*
-- Related Tools: *(tool names)*
-- Certification Reference: *(CompTIA objectives, links, etc.)*
+---
+
+## 🧪 Task 3: TryHackMe – Malware and Threat Detection
+
+- [TryHackMe: Malware Analysis Intro](https://tryhackme.com/room/malwareintro)  
+- [TryHackMe: Rootkits](https://tryhackme.com/room/linuxrootkits)
+
+**Output:**  
+- Markdown: `malware-analysis-findings.md`
+
+---
+
+## 🛠️ Tools Learned Today
+
+| Tool / Command   | Purpose                                |
+|------------------|----------------------------------------|
+| `chkrootkit`     | Check system for known rootkits        |
+| `rkhunter`       | Scan for known rootkits and anomalies  |
+| `clamav`         | Virus scanner and signature checker    |
+| `ufw`            | Host-based firewall                    |
+| `/var/log`, `journalctl` | Log analysis for infections   |
+
+---
+
+## 📁 Documentation Checklist
+
+- [ ] `malware-types-overview.md`  
+- [ ] `malware-removal-checklist.md`  
+- [ ] `malware-analysis-findings.md`  
+- [ ] `malicious-log-signatures.md`  
+- [ ] Git Commit:
+  ```bash
+  git add . && git commit -m "Day 17 – Malware Detection, Removal, and Logging" && git push origin main
+  ```
+
+---
+
+**📦 Default Export & Backup Step**
+
+Save this file and commit updates to your Obsidian vault and GitHub repo:
+
+```bash
+git add . && git commit -m "Daily update – LinkOS Bootcamp" && git push origin main
+```

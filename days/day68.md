@@ -1,29 +1,108 @@
+# ✅ LinkOS Bootcamp — Day 68
+
+**Full-Time Learner Track (8–10 hours/day)**  
+**Cert Focus:** SecurityX (CAS-005)  
+**Focus:** Security monitoring strategy, SIEM architecture, rule tuning, and alert triage  
+**Tools:** HTB Academy, Wazuh/ELK/Graylog examples, real-world SIEM project
+
 ---
-title: "Day 68 – Cybersecurity Learning Project"
-certifications:
-  - Tech+
-  - A+
-  - Security+
-tools: []
-objectives: []
+
+## 📡 Task 1: SIEM Concepts and Architecture
+
+**Mapped Objectives:**  
+- CAS-005 Domain 3 – Security Operations and Continuous Monitoring  
+- CAS-005 Domain 4 – Technical Integration
+
+**Actions:**  
+- Define:
+  - SIEM components: agents, collectors, correlation engine, dashboards  
+  - SIEM vs SOAR  
+- Describe log sources: endpoint, firewall, AD, VPN, cloud
+
+**Output:**  
+- Markdown: `securityx-siem-architecture.md`  
+- Diagram: Log flow from source to alert (optional)
+
 ---
 
-## 🔍 Overview
+## 🧪 Task 2: Detection Rules and Alert Tuning
 
-This is the detailed project log for **Day 68** of the Link2Cyber 80-Day Certification Journey.
+**Actions:**  
+- Study:
+  - Common log anomalies: brute force, privilege escalation, exfiltration  
+  - False positives and noise suppression  
+- Write or simulate a custom rule to detect failed SSH logins or DNS tunneling
 
-## 🛠️ Tasks
+**Tools/Concepts:**  
+- Wazuh rules  
+- Sigma rules  
+- Logstash/Elasticsearch filters
 
-- [ ] Complete lab or hands-on project
-- [ ] Document tool usage
-- [ ] Link relevant cert objective(s)
+**Output:**  
+- Markdown: `securityx-alert-tuning.md`  
+- Sample: Rule in YAML or JSON + screenshot/log evidence
 
-## 📁 Project Notes
+---
 
-_(Write your reflections, challenges, and lessons learned here.)_
+## 🧪 Task 3: HTB Academy + Optional SIEM Room
 
-## 🔗 Resources
+### HTB Academy Module:
+- [Security Monitoring and SIEM](https://academy.hackthebox.com/module/121)
 
-- GitHub Repo: *(link here)*
-- Related Tools: *(tool names)*
-- Certification Reference: *(CompTIA objectives, links, etc.)*
+### Optional TryHackMe:
+- [SIEM Fundamentals](https://tryhackme.com/room/siemfundamentals)
+
+**Output:**  
+- Markdown: `securityx-monitoring-lab-notes.md`  
+- Screenshot: Log match, dashboard, or alert trace
+
+---
+
+## 🛠️ Project of the Day: “Custom SIEM Use Case Deployment”
+
+**Scenario:**  
+You're asked to propose and simulate a new detection use case for your SOC’s SIEM.
+
+**Steps:**  
+1. Define a threat scenario (e.g., unauthorized root access, RDP brute force)  
+2. Identify log sources needed  
+3. Draft a detection rule (Wazuh/Sigma format)  
+4. Write a short detection deployment plan and triage flow
+
+**Deliverables:**  
+- Markdown: `project-siem-use-case.md`  
+- Rule Sample: `detect_unauth_root_access.yml`  
+- Screenshot: Rule logic or visual alert trace
+
+---
+
+## 🛠️ Tools and Concepts Today
+
+| Tool / Concept      | Purpose                                        |
+|---------------------|------------------------------------------------|
+| Wazuh / Graylog      | Collect and correlate logs                    |
+| Sigma Rules / YAML   | Define custom alerts and detections          |
+| SIEM Pipeline        | Normalize, correlate, alert                   |
+| SOC Triage           | Prioritize alerts and suppress noise          |
+
+---
+
+## 📁 Documentation Checklist
+
+- [ ] `securityx-siem-architecture.md`  
+- [ ] `securityx-alert-tuning.md`  
+- [ ] `securityx-monitoring-lab-notes.md`  
+- [ ] `project-siem-use-case.md`  
+- [ ] `detect_unauth_root_access.yml`  
+- [ ] Git Commit:
+  ```bash
+  git add . && git commit -m "Day 68 – SecurityX SIEM Tuning and Monitoring Project" && git push origin main
+  ```
+
+---
+
+**📦 Final Export & Backup Step**
+
+```bash
+git add . && git commit -m "Daily update – LinkOS Bootcamp Day 68 (SecurityX SIEM Architecture)" && git push origin main
+```

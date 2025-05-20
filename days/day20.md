@@ -1,29 +1,89 @@
----
-title: "Day 20 – Cybersecurity Learning Project"
-certifications:
-  - Tech+
-  - A+
-  - Security+
-tools: []
-objectives: []
+# ✅ LinkOS Bootcamp — Day 27
+
+**Full-Time Learner Track (8–10 hours/day)**  
+**Cert Focus:** Security+ (SY0-601)  
+**Goal:** Understand network security concepts and secure communication protocols
+
 ---
 
-## 🔍 Overview
+## 🔐 Focus: Network Security and Protocols
 
-This is the detailed project log for **Day 20** of the Link2Cyber 80-Day Certification Journey.
+Today you’ll build command over **network security controls**, **secure communication protocols**, and **monitoring techniques** essential for real-world SOC analysis and Security+ Domain 2 mastery.
 
-## 🛠️ Tasks
+---
 
-- [ ] Complete lab or hands-on project
-- [ ] Document tool usage
-- [ ] Link relevant cert objective(s)
+## 🌐 Task 1: Secure Protocols and Port Review
 
-## 📁 Project Notes
+**Mapped Objectives:**  
+- 3.3 – Secure protocols and their use cases  
+- 3.1 – Implement secure network architecture concepts
 
-_(Write your reflections, challenges, and lessons learned here.)_
+**Actions:**  
+- Create a table of common ports and secure alternatives (e.g., HTTPS over HTTP, SSH over Telnet)  
+- Document the differences between:
+  - SSL vs TLS
+  - VPN vs SSH tunneling
+  - FTPS vs SFTP
 
-## 🔗 Resources
+**Output:**  
+- Markdown: `secure-protocols-and-ports.md`  
+- Table: Protocol | Port | Secure? | Use Case
 
-- GitHub Repo: *(link here)*
-- Related Tools: *(tool names)*
-- Certification Reference: *(CompTIA objectives, links, etc.)*
+---
+
+## 🧪 Task 2: TryHackMe Labs – Protocols and Network Layers
+
+- [TryHackMe: Intro to Networking](https://tryhackme.com/room/introtothenetwork)  
+- [TryHackMe: Network Security Basics](https://tryhackme.com/room/networksecurity)
+
+**Output:**  
+- Markdown: `network-security-lab-notes.md`  
+- Screenshot: Completed rooms or config analysis
+
+---
+
+## 🧰 Task 3: Network Defense Tools Drill
+
+**Actions:**  
+- Install and experiment with basic packet inspection tools:
+  - `tcpdump`
+  - `wireshark` (optional GUI)
+  - `netstat`, `ss`
+- Monitor open ports, scan traffic to/from your device, and document insights
+
+**Output:**  
+- Markdown: `packet-monitoring-logs.md`  
+- Screenshot: Packet capture output or firewall rule logs
+
+---
+
+## 🛠️ Tools Learned Today
+
+| Tool / Command   | Purpose                                 |
+|------------------|------------------------------------------|
+| `tcpdump`, `ss`  | View active traffic and socket state     |
+| `netstat`, `ufw` | Monitor and control network connections  |
+| `wireshark`      | Deep packet inspection (GUI, optional)   |
+| `iptables`, `firewalld` | Custom firewall rule control      |
+
+---
+
+## 📁 Documentation Checklist
+
+- [ ] `secure-protocols-and-ports.md`  
+- [ ] `network-security-lab-notes.md`  
+- [ ] `packet-monitoring-logs.md`  
+- [ ] Git Commit:
+  ```bash
+  git add . && git commit -m "Day 27 – Network Security and Secure Protocols" && git push origin main
+  ```
+
+---
+
+**📦 Final Export & Backup Step**
+
+Save this file and commit updates to your Obsidian vault and GitHub repo:
+
+```bash
+git add . && git commit -m "Daily update – LinkOS Bootcamp Day 27" && git push origin main
+```
