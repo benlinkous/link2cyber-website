@@ -8,32 +8,26 @@ title: "Welcome to Link2Cyber"
 
 # 🔐 Welcome to Link2Cyber
 
-Your **cybersecurity learning companion**, powered by the open-source LinksOS platform. This site contains a full 80-day hands-on bootcamp aligned to real-world certifications like:
-
-- Tech+
-- A+
-- Security+
-- Network+
-- CySA+
-- PenTest+
-- SecurityX
+This is your cybersecurity learning companion, powered by LinksOS. Below is your 80-day certification journey — with projects, tools, and mapped cert objectives.
 
 ---
 
-## 🧭 Navigate the Platform
+## 🧭 Explore by Certification Track
 
-| Section | Description |
-|--------|-------------|
-| [📅 80-Day Curriculum](/days/index.md) | Explore daily projects from Day 01 to Day 80 |
-| [📚 Certification Tracks](/certs/techplus.md) | View your path for each major certification |
-| [💾 ISO Downloads](/downloads.md) | Get LinksOS ISO snapshots for each stage |
-| [🧠 About](/about.md) | Learn how Link2Cyber supports your journey |
-
----
-
-## 🚀 Get Started Now
-
-Start at [**Day 01**](/days/day01.md), or explore the [full curriculum](/days/index.md).
+| Cert | Team | Start Here |
+|------|------|------------|
+| 🟪 Tech+ | Foundations (Gray Team) | [Tech+ Track](/certs/techplus.md) |
+| 🔴 A+ | Red Team (Hardware/Software) | [A+ Track](/certs/aplus.md) |
+| 🔵 Security+ | Blue Team (Defense) | [Security+ Track](/certs/securityplus.md) |
+| 🔵 Network+ | Blue Team (Infrastructure) | [Network+ Track](/certs/networkplus.md) |
+| 🔵 CySA+ | Blue Team (SOC Analyst) | [CySA+ Track](/certs/cysa.md) |
+| 🔴 PenTest+ | Red Team (Offensive) | [PenTest+ Track](/certs/pentestplus.md) |
+| 🟣 SecurityX | Purple Team (Advanced Leadership) | [SecurityX Track](/certs/securityx.md) |
 
 ---
-_This project is part of the Link2Cyber.com and LinksOS.org ecosystem._
+
+## 🚀 Quick Links
+
+- [📅 Curriculum Days](/days/index.md)
+- [💾 ISO Downloads](/downloads.md)
+- [🧠 About](/about.md)
