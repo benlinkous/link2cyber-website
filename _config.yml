@@ -1,0 +1,19 @@
+title: Link2Cyber
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Downloads: downloads.md
+  - Certifications:
+    - Tech+: certs/techplus.md
+    - A+: certs/aplus.md
+    - Security+: certs/securityplus.md
+    - Network+: certs/networkplus.md
+    - CySA+: certs/cysa.md
+    - PenTest+: certs/pentestplus.md
+    - SecurityX: certs/securityx.md
+  - Project Days: days/index.md
