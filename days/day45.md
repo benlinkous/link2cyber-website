@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 45 
+# ✅ LinksOS Bootcamp — Day 45 
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** PenTest+ (PT0-002) — Day 1 of PenTest+ Sprint  
@@ -110,5 +110,5 @@
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 45 (PenTest+ with HTB + THM)" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 45 (PenTest+ with HTB + THM)" && git push origin main
 ```

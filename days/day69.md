@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 69
+# ✅ LinksOS Bootcamp — Day 69
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** SecurityX (CAS-005)  
@@ -103,5 +103,5 @@ You’re tasked with producing a hardened build guide for a new Linux image used
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 69 (SecurityX EDR + Secure Build)" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 69 (SecurityX EDR + Secure Build)" && git push origin main
 ```

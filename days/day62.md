@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 62
+# ✅ LinksOS Bootcamp — Day 62
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** SecurityX (CAS-005)  
@@ -100,5 +100,5 @@ You're asked to create a register for 5 high-value assets and include how their 
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 62 (SecurityX Control Register)" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 62 (SecurityX Control Register)" && git push origin main
 ```

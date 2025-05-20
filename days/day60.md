@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 60
+# ✅ LinksOS Bootcamp — Day 60
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** Linux+ (XK0-005)  
@@ -88,5 +88,5 @@ You're preparing to share your learning archive or back it up.
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 60 (Linux+ Final Wrap-Up)" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 60 (Linux+ Final Wrap-Up)" && git push origin main
 ```

@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 74
+# ✅ LinksOS Bootcamp — Day 74
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** SecurityX (CAS-005)  
@@ -104,5 +104,5 @@ You're designing the Docker build standard for a dev team transitioning to conta
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 74 (SecurityX Containers and VMs)" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 74 (SecurityX Containers and VMs)" && git push origin main
 ```

@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 59
+# ✅ LinksOS Bootcamp — Day 59
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** Linux+ (XK0-005)  
@@ -105,5 +105,5 @@ Create a system that backs up `/etc`, compresses the archive, and logs backup su
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 59 (Linux+ HTB + Backup Project)" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 59 (Linux+ HTB + Backup Project)" && git push origin main
 ```

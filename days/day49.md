@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 49
+# ✅ LinksOS Bootcamp — Day 49
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** PenTest+ (PT0-002) — Web Application Attacks and Automation  
@@ -88,5 +88,5 @@
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 49" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 49" && git push origin main
 ```

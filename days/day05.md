@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 13
+# ✅ LinksOS Bootcamp — Day 13
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Focus:** A+, Tech+, Security+, Linux+  
@@ -14,7 +14,7 @@
 - **Security+:** Secure Web Access and Content Filtering  
 - **Linux+:** DNS Configuration and Network Services  
 - **TryHackMe:** Network troubleshooting and DNS analysis  
-- **LinkOS Tools:** Integrated throughout tasks
+- **LinksOS Tools:** Integrated throughout tasks
 
 ---
 
@@ -121,5 +121,5 @@
 Save this file and commit updates to your Obsidian vault and GitHub repo:
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp" && git push origin main
 ```

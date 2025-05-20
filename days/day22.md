@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 29
+# ✅ LinksOS Bootcamp — Day 29
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** Security+ (SY0-601)  
@@ -87,5 +87,5 @@ Today’s goal is to master Security+ Domain 3 and 6 content related to encrypti
 Save this file and commit updates to your Obsidian vault and GitHub repo:
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 29" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 29" && git push origin main
 ```

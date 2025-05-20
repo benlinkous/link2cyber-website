@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 70
+# ✅ LinksOS Bootcamp — Day 70
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** SecurityX (CAS-005)  
@@ -97,5 +97,5 @@ The CISO has requested a Zero Trust adoption plan for internal staff and cloud a
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 70 (SecurityX ZTA and IAM)" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 70 (SecurityX ZTA and IAM)" && git push origin main
 ```

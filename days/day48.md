@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 48
+# ✅ LinksOS Bootcamp — Day 48
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** PenTest+ (PT0-002) — Gaining Access and Post-Exploitation  
@@ -83,5 +83,5 @@
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 48" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 48" && git push origin main
 ```

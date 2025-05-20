@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 50
+# ✅ LinksOS Bootcamp — Day 50
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** PenTest+ (PT0-002) — Final Review and Exam Confidence  
@@ -93,5 +93,5 @@ You’ve completed 6 days of deep hands-on testing, exploitation, and reporting.
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 50" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 50" && git push origin main
 ```

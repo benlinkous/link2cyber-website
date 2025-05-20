@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 42
+# ✅ LinksOS Bootcamp — Day 42
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** Network+ (N10-008 or N10-009) — Physical Networking  
@@ -86,5 +86,5 @@
 Save this file and commit updates to your Obsidian vault and GitHub repo:
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 42" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 42" && git push origin main
 ```

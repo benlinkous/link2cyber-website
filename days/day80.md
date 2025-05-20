@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 80
+# ✅ LinksOS Bootcamp — Day 80
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** SecurityX (CAS-005)  
@@ -101,5 +101,5 @@ You're writing your internal debrief for training, certification reflection, and
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 80 (SecurityX Wrap-Up)" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 80 (SecurityX Wrap-Up)" && git push origin main
 ```

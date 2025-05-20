@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 76
+# ✅ LinksOS Bootcamp — Day 76
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** SecurityX (CAS-005)  
@@ -98,5 +98,5 @@ You’re tasked with designing a gateway policy for all backend APIs exposed to 
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 76 (SecurityX API Security)" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 76 (SecurityX API Security)" && git push origin main
 ```

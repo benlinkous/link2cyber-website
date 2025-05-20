@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 55 (Revised)
+# ✅ LinksOS Bootcamp — Day 55 (Revised)
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** Linux+ (XK0-005)  
@@ -105,5 +105,5 @@ You're asked to write a script to auto-update the system and send a log summary 
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 55 (Linux+ HTB + Project)" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 55 (Linux+ HTB + Project)" && git push origin main
 ```

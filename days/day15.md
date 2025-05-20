@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 22
+# ✅ LinksOS Bootcamp — Day 22
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** Tech+ and CompTIA A+ (220-1102)  
@@ -86,5 +86,5 @@ Act as an L1 technician solving the following support tickets:
 Save this file and commit updates to your Obsidian vault and GitHub repo:
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 22" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 22" && git push origin main
 ```

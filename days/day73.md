@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 73
+# ✅ LinksOS Bootcamp — Day 73
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** SecurityX (CAS-005)  
@@ -97,5 +97,5 @@ You’ve been asked to propose a secure architecture for deploying a cloud-based
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 73 (SecurityX Cloud Security)" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 73 (SecurityX Cloud Security)" && git push origin main
 ```

@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 54
+# ✅ LinksOS Bootcamp — Day 54
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** Linux+ (XK0-005) — Network Configuration, Firewall Management, and Troubleshooting  
@@ -84,5 +84,5 @@
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 54" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 54" && git push origin main
 ```

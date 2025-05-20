@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 8
+# ✅ LinksOS Bootcamp — Day 8
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Focus:** A+, Tech+, Security+, Linux+  
@@ -14,7 +14,7 @@
 - **Security+:** Secure Network Protocols  
 - **Linux+:** Package Managers and Software Repositories  
 - **TryHackMe:** Secure Communications and Linux Software Management  
-- **LinkOS Tools:** Integrated throughout tasks
+- **LinksOS Tools:** Integrated throughout tasks
 
 ---
 
@@ -120,5 +120,5 @@
 Save this file and commit updates to your Obsidian vault and GitHub repo:
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp" && git push origin main
 ```

@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 65
+# ✅ LinksOS Bootcamp — Day 65
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** SecurityX (CAS-005)  
@@ -99,5 +99,5 @@ You’re asked to create documentation to help an internal team spin up a basic 
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 65 (SecurityX Crypto and Certificates)" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 65 (SecurityX Crypto and Certificates)" && git push origin main
 ```

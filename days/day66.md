@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 66
+# ✅ LinksOS Bootcamp — Day 66
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** SecurityX (CAS-005)  
@@ -96,5 +96,5 @@ As the new security lead, you're asked to prepare the IR policy and run a tablet
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 66 (SecurityX Incident Response)" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 66 (SecurityX Incident Response)" && git push origin main
 ```

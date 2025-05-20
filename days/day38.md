@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 38
+# ✅ LinksOS Bootcamp — Day 38
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** CySA+ (CS0-003) — Security Architecture and Hardening  
@@ -87,5 +87,5 @@
 Save this file and commit updates to your Obsidian vault and GitHub repo:
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 38" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 38" && git push origin main
 ```

@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 64
+# ✅ LinksOS Bootcamp — Day 64
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** SecurityX (CAS-005)  
@@ -96,5 +96,5 @@ You’ve been asked to create a threat model for an internal business applicatio
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 64 (SecurityX DevSecOps)" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 64 (SecurityX DevSecOps)" && git push origin main
 ```

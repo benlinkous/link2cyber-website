@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 47
+# ✅ LinksOS Bootcamp — Day 47
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** PenTest+ (PT0-002) — Vulnerability Identification and Exploitation  
@@ -85,5 +85,5 @@
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 47" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 47" && git push origin main
 ```

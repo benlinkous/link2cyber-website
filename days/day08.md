@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 16
+# ✅ LinksOS Bootcamp — Day 16
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Focus:** A+, Tech+, Security+, Linux+  
@@ -82,5 +82,5 @@
 Save this file and commit updates to your Obsidian vault and GitHub repo:
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp" && git push origin main
 ```

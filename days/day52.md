@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 52
+# ✅ LinksOS Bootcamp — Day 52
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** Linux+ (XK0-005) — Storage, Partitions, and Filesystem Management  
@@ -80,5 +80,5 @@
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 52" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 52" && git push origin main
 ```

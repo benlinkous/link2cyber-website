@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 10
+# ✅ LinksOS Bootcamp — Day 10
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Focus:** A+, Tech+, Security+, Linux+  
@@ -14,7 +14,7 @@
 - **Security+:** Remote Work Security and VPN  
 - **Linux+:** SSH Configuration and Secure Remote Sessions  
 - **TryHackMe:** Remote access, SSH security, and file transfer  
-- **LinkOS Tools:** Integrated throughout tasks
+- **LinksOS Tools:** Integrated throughout tasks
 
 ---
 
@@ -119,5 +119,5 @@
 Save this file and commit updates to your Obsidian vault and GitHub repo:
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp" && git push origin main
 ```

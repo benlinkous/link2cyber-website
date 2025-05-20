@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 57
+# ✅ LinksOS Bootcamp — Day 57
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** Linux+ (XK0-005)  
@@ -86,5 +86,5 @@ Your system won’t boot due to a bad mount or systemd service crash. You're ask
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 57 (Linux+ HTB + Recovery Project)" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 57 (Linux+ HTB + Recovery Project)" && git push origin main
 ```

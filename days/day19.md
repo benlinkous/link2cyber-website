@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 26
+# ✅ LinksOS Bootcamp — Day 26
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** Security+ (SY0-601)  
@@ -86,5 +86,5 @@ Welcome to the final sprint! For the next five days, your focus is entirely on *
 Save this file and commit updates to your Obsidian vault and GitHub repo:
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 26" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 26" && git push origin main
 ```

@@ -1,4 +1,4 @@
-# LinkOS Bootcamp Day 4 – Expanded
+# LinksOS Bootcamp Day 4 – Expanded
 
 ## 📘 Modules & Activities
 

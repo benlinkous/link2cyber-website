@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 61
+# ✅ LinksOS Bootcamp — Day 61
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** SecurityX (CAS-005) — Day 1 of 20  
@@ -102,5 +102,5 @@ You're tasked with starting a risk register and basic security policy for a fict
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 61 (SecurityX Governance and Risk)" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 61 (SecurityX Governance and Risk)" && git push origin main
 ```

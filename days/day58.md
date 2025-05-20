@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 58
+# ✅ LinksOS Bootcamp — Day 58
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** Linux+ (XK0-005)  
@@ -101,5 +101,5 @@ A security policy mandates account lockout after 3 failed login attempts and log
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 58 (Linux+ HTB + PAM Project)" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 58 (Linux+ HTB + PAM Project)" && git push origin main
 ```

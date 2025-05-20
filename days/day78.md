@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 78
+# ✅ LinksOS Bootcamp — Day 78
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** SecurityX (CAS-005)  
@@ -98,5 +98,5 @@ You're building a vendor onboarding checklist and security risk scoring system.
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 78 (SecurityX Vendor Risk)" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 78 (SecurityX Vendor Risk)" && git push origin main
 ```

@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 53
+# ✅ LinksOS Bootcamp — Day 53
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** Linux+ (XK0-005) — Process Control, System Services, and Resource Management  
@@ -84,5 +84,5 @@
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 53" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 53" && git push origin main
 ```

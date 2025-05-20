@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 77
+# ✅ LinksOS Bootcamp — Day 77
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** SecurityX (CAS-005)  
@@ -96,5 +96,5 @@ You're tasked with creating a lightweight data classification and handling polic
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 77 (SecurityX Data Privacy and Handling)" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 77 (SecurityX Data Privacy and Handling)" && git push origin main
 ```

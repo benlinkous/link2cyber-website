@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 79
+# ✅ LinksOS Bootcamp — Day 79
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** SecurityX (CAS-005)  
@@ -98,5 +98,5 @@ You’re asked to produce a visual, strategic dashboard for the company’s annu
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 79 (SecurityX Governance Reporting)" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 79 (SecurityX Governance Reporting)" && git push origin main
 ```

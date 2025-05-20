@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 6
+# ✅ LinksOS Bootcamp — Day 6
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Focus:** A+, Tech+, Security+, Linux+  
@@ -14,7 +14,7 @@
 - **Security+:** Secure Configuration of Devices  
 - **Linux+:** System Boot Process, Journal Logs  
 - **TryHackMe:** Linux internals, log analysis  
-- **LinkOS Tools:** Integrated throughout tasks
+- **LinksOS Tools:** Integrated throughout tasks
 
 ---
 
@@ -137,5 +137,5 @@
 Save this file and commit updates to your Obsidian vault and GitHub repo:
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp" && git push origin main
 ```

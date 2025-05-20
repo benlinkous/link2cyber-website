@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 23
+# ✅ LinksOS Bootcamp — Day 23
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** Tech+ and CompTIA A+ (220-1102)  
@@ -81,5 +81,5 @@ You’re in the final stretch before your Tech+ and A+ exams. This day strengthe
 Save this file and commit updates to your Obsidian vault and GitHub repo:
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 23" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 23" && git push origin main
 ```

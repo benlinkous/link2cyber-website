@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 14
+# ✅ LinksOS Bootcamp — Day 14
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Focus:** A+, Tech+, Security+, Linux+  
@@ -14,7 +14,7 @@
 - **Security+:** Sandboxing and Virtual Security  
 - **Linux+:** KVM/QEMU Basics and ISO Mounting  
 - **TryHackMe:** Virtualization, VMs, and Sandboxes  
-- **LinkOS Tools:** Integrated throughout tasks
+- **LinksOS Tools:** Integrated throughout tasks
 
 ---
 
@@ -125,5 +125,5 @@
 Save this file and commit updates to your Obsidian vault and GitHub repo:
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp" && git push origin main
 ```

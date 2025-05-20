@@ -1,9 +1,9 @@
-# LinkOS Bootcamp Day 1 – Expanded
+# LinksOS Bootcamp Day 1 – Expanded
 
 ## 📘 Modules & Activities
 
 ### 1. System Orientation & Cyber Foundations
-- Set up LinkOS VM or base system and Obsidian vault
+- Set up LinksOS VM or base system and Obsidian vault
 - **Objectives**: ITF+ 1.1, 2.1 | A+ 220-1101 1.1 | Linux+ 1.1, 1.2
 - **Tools**: neofetch, inxi, bash, sudo
 

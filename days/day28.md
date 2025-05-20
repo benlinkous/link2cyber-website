@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 7
+# ✅ LinksOS Bootcamp — Day 7
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Focus:** A+, Tech+, Security+, Linux+  
@@ -14,7 +14,7 @@
 - **Security+:** Malware Identification and Removal  
 - **Linux+:** File System Management, Disk Utilities  
 - **TryHackMe:** Malware analysis, file system exploration  
-- **LinkOS Tools:** Integrated throughout tasks
+- **LinksOS Tools:** Integrated throughout tasks
 
 ---
 
@@ -33,7 +33,7 @@
 - `lsblk`, `df -h`, `du -sh *`, `mkfs.ext4`, `mount`, `umount`, `blkid`
 
 **Output:**  
-- Markdown: “LinkOS File System Layout + Mounting Exercise”
+- Markdown: “LinksOS File System Layout + Mounting Exercise”
 
 ---
 
@@ -119,5 +119,5 @@
 Save this file and commit updates to your Obsidian vault and GitHub repo:
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp" && git push origin main
 ```

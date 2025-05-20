@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 56
+# ✅ LinksOS Bootcamp — Day 56
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** Linux+ (XK0-005)  
@@ -86,5 +86,5 @@ The sysadmin team wants a CLI dashboard showing real-time system health and aler
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 56 (Linux+ HTB + Dashboard Project)" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 56 (Linux+ HTB + Dashboard Project)" && git push origin main
 ```

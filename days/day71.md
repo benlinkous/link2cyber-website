@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 71
+# ✅ LinksOS Bootcamp — Day 71
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** SecurityX (CAS-005)  
@@ -96,5 +96,5 @@ You're designing an infrastructure for a client that requires 99.99% uptime, dis
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 71 (SecurityX Resilience and DR)" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 71 (SecurityX Resilience and DR)" && git push origin main
 ```

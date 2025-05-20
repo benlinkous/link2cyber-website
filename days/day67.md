@@ -1,4 +1,4 @@
-# ✅ LinkOS Bootcamp — Day 67
+# ✅ LinksOS Bootcamp — Day 67
 
 **Full-Time Learner Track (8–10 hours/day)**  
 **Cert Focus:** SecurityX (CAS-005)  
@@ -103,5 +103,5 @@ You're asked to create a script that copies key logs, collects hashes, and expor
 **📦 Final Export & Backup Step**
 
 ```bash
-git add . && git commit -m "Daily update – LinkOS Bootcamp Day 67 (SecurityX Forensics)" && git push origin main
+git add . && git commit -m "Daily update – LinksOS Bootcamp Day 67 (SecurityX Forensics)" && git push origin main
 ```
