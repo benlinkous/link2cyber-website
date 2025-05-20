@@ -1,19 +1,20 @@
 title: Link2Cyber
-theme: minima
-markdown: kramdown
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+search_enabled: true
 plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-sitemap
 
-nav:
-  - Home: index.md
-  - About: about.md
-  - Downloads: downloads.md
-  - Certifications:
-    - Tech+: certs/techplus.md
-    - A+: certs/aplus.md
-    - Security+: certs/securityplus.md
-    - Network+: certs/networkplus.md
-    - CySA+: certs/cysa.md
-    - PenTest+: certs/pentestplus.md
-    - SecurityX: certs/securityx.md
-  - Project Days: days/index.md
+nav_sort: case_insensitive
+
+aux_links:
+  "Back to GitHub":
+    - "https://github.com/benlinkous/link2cyber-website"
+
+callouts:
+  note:
+    title: Note
+    color: blue
