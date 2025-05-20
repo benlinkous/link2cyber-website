@@ -1,6 +1,6 @@
-# 🗓️ Project Tracker – Days 1–80
+# 🗓️ Link2Cyber 80-Day Curriculum
 
-Click a day to view the detailed cybersecurity learning project:
+Browse each day of the training program below:
 
 - [Day 01](day01.md)
 - [Day 02](day02.md)
