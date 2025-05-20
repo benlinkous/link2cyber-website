@@ -2,6 +2,10 @@
 title: "Welcome to Link2Cyber"
 ---
 
+<p align="center">
+  <img src="/assets/images/link2cyber-logo.png" alt="Link2Cyber Logo" width="300"/>
+</p>
+
 # 🔐 Welcome to Link2Cyber
 
 Your **cybersecurity learning companion**, powered by the open-source LinksOS platform. This site contains a full 80-day hands-on bootcamp aligned to real-world certifications like:
